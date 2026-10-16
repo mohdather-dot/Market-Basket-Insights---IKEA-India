@@ -18,8 +18,7 @@ This project deploys a three-pillar analytical engine to restore unit economics:
 
 ## 📊 Executive Power BI Governance Dashboard
 <!-- DRAG AND DROP YOUR SLIDE 8 POWER BI DASHBOARD SCREENSHOT BELOW THIS LINE -->
-![IKEA India Power BI Dashboard](<img src="https://github.com/user-attachments/assets/2930bae9-ab59-454e-a091-574da7b1fd41" alt="IKEA India Power BI Dashboard" width="100%">
-)
+![IKEA India Power BI Dashboard](https://github.com/user-attachments/assets/2930bae9-ab59-454e-a091-574da7b1fd41")
 
 ---
 
