@@ -30,8 +30,7 @@ This project deploys a three-pillar analytical engine to restore unit economics:
 * **Actionable Shift:** Cut Meta (-₹5.0 Cr) and Search (-₹2.0 Cr); reinvest into WhatsApp CRM (+₹3.0 Cr at `4.15x mROAS`), YouTube/CTV (+₹2.5 Cr at `2.35x`), and Influencers (+₹1.5 Cr at `2.10x`).
 
 <!-- DRAG AND DROP YOUR ADSTOCK & SATURATION CURVE IMAGE (image_3bd3e1.png) BELOW THIS LINE -->
-![MMM Adstock and Saturation Curves](<img width="1280" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/f5535d63-3ea1-47b7-a382-0779a17d54bb" />
-)
+![MMM Adstock and Saturation Curves](https://github.com/user-attachments/assets/f5535d63-3ea1-47b7-a382-0779a17d54bb)
 
 ---
 
@@ -41,8 +40,7 @@ This project deploys a three-pillar analytical engine to restore unit economics:
 * **Impact:** Pre-packaged room suites (e.g., *MICKE Desk + LOBERGET Chair + SIGNUM Cable Trunking*, `Lift = 4.48x–6.75x`) lift multi-item cart conversion to **55.0%** and compress freight cost to **7.9%–12.3%** of order value.
 
 <!-- DRAG AND DROP YOUR SLIDE 5 OR SLIDE 6 MBA CHART BELOW THIS LINE -->
-![MBA Apriori Rules and Unit Economics](<img width="1280" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/be4f20ed-acce-4f2d-9986-4ab2441adc69" />
-)
+![MBA Apriori Rules and Unit Economics](https://github.com/user-attachments/assets/be4f20ed-acce-4f2d-9986-4ab2441adc69)
 
 ---
 
@@ -52,5 +50,4 @@ This project deploys a three-pillar analytical engine to restore unit economics:
 * **Strategic Repositioning:** Bundling subsidized doorstep assembly (self-funded by multi-item room suite margins) shifts IKEA into the uncontested **"Affordable Turnkey" whitespace (`X = +0.85, Y = 3.10`)**.
 
 <!-- DRAG AND DROP YOUR SLIDE 7 PERCEPTUAL MAP IMAGE BELOW THIS LINE -->
-![PCA Strategic Perceptual Map](<img width="1280" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/75f221e7-5970-4409-af0d-dd01899c3e8c" />
-)
+![PCA Strategic Perceptual Map](https://github.com/user-attachments/assets/75f221e7-5970-4409-af0d-dd01899c3e8c)
