@@ -1,7 +1,8 @@
 # Beyond the Allen Key: Restoring Omnichannel Profitability for IKEA India
 **Precision Retail Marketing Analytics | Marketing Mix Modelling (MMM) • Market Basket Analysis (MBA) • Perceptual Mapping (PCA)**
 
-📄 **[View Full Executive Presentation (PDF)](Presentation_Mohd_Ather_Rahim_25221125.pdf)** | 📊 **Tools:** Python (`Scikit-Learn`, `Pandas`), L2 Ridge Regression, Apriori Algorithm, PCA, Microsoft Power BI
+📄 **[View Full Executive Presentation (PDF)](https://github.com/user-attachments/files/33529344/Presentation_For.BoardMembers.pdf)
+)** | 📊 **Tools:** Python (`Scikit-Learn`, `Pandas`), L2 Ridge Regression, Apriori Algorithm, PCA, Microsoft Power BI
 
 ---
 
