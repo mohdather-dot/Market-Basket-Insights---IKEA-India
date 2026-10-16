@@ -18,7 +18,8 @@ This project deploys a three-pillar analytical engine to restore unit economics:
 
 ## 📊 Executive Power BI Governance Dashboard
 <!-- DRAG AND DROP YOUR SLIDE 8 POWER BI DASHBOARD SCREENSHOT BELOW THIS LINE -->
-![IKEA India Power BI Dashboard](assets/powerbi_dashboard.png)
+![IKEA India Power BI Dashboard](<img width="1280" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/2930bae9-ab59-454e-a091-574da7b1fd41" />
+)
 
 ---
 
@@ -27,11 +28,11 @@ This project deploys a three-pillar analytical engine to restore unit economics:
 ### 1. Marketing Mix Modelling (L2 Ridge Regression & Adstock Decay)
 * **Challenge:** Severe customer acquisition cost (CAC) inflation and diminishing returns in Meta (`0.85x mROAS`) and Google Paid Search (`1.12x mROAS`).
 * **Methodology:** Modeled 104 weekly observations across 5 channels incorporating geometric Adstock memory carryover ($\lambda$) and L2 Ridge Regression with 5-fold cross-validation to resolve festive multicollinearity.
-* **Model Diagnostics:** `R² = 0.9971` | `Adj R² = 0.9969` | `MAPE = 1.75%` | `Optimal α = 0.0518`
 * **Actionable Shift:** Cut Meta (-₹5.0 Cr) and Search (-₹2.0 Cr); reinvest into WhatsApp CRM (+₹3.0 Cr at `4.15x mROAS`), YouTube/CTV (+₹2.5 Cr at `2.35x`), and Influencers (+₹1.5 Cr at `2.10x`).
 
 <!-- DRAG AND DROP YOUR ADSTOCK & SATURATION CURVE IMAGE (image_3bd3e1.png) BELOW THIS LINE -->
-![MMM Adstock and Saturation Curves](assets/mmm_curves.png)
+![MMM Adstock and Saturation Curves](<img width="1280" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/f5535d63-3ea1-47b7-a382-0779a17d54bb" />
+)
 
 ---
 
@@ -41,7 +42,8 @@ This project deploys a three-pillar analytical engine to restore unit economics:
 * **Impact:** Pre-packaged room suites (e.g., *MICKE Desk + LOBERGET Chair + SIGNUM Cable Trunking*, `Lift = 4.48x–6.75x`) lift multi-item cart conversion to **55.0%** and compress freight cost to **7.9%–12.3%** of order value.
 
 <!-- DRAG AND DROP YOUR SLIDE 5 OR SLIDE 6 MBA CHART BELOW THIS LINE -->
-![MBA Apriori Rules and Unit Economics](assets/mba_economics.png)
+![MBA Apriori Rules and Unit Economics](<img width="1280" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/be4f20ed-acce-4f2d-9986-4ab2441adc69" />
+)
 
 ---
 
@@ -51,4 +53,5 @@ This project deploys a three-pillar analytical engine to restore unit economics:
 * **Strategic Repositioning:** Bundling subsidized doorstep assembly (self-funded by multi-item room suite margins) shifts IKEA into the uncontested **"Affordable Turnkey" whitespace (`X = +0.85, Y = 3.10`)**.
 
 <!-- DRAG AND DROP YOUR SLIDE 7 PERCEPTUAL MAP IMAGE BELOW THIS LINE -->
-![PCA Strategic Perceptual Map](assets/pca_perceptual_map.png)
+![PCA Strategic Perceptual Map](<img width="1280" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/75f221e7-5970-4409-af0d-dd01899c3e8c" />
+)
